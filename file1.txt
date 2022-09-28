@@ -1,2 +1,3 @@
-1.first change
+1. First change
 2. Change from git editor
+3. Commiting the changes

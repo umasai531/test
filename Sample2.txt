@@ -1,1 +1,3 @@
 'file2 for checking it' 
+
+check
